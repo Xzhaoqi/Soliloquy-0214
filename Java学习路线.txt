@@ -1,0 +1,35 @@
+-------JAVA 基础
+多线程 ： 生命周期、如何保证线程安全、可重入锁如何实现
+虚拟机： 内存模型、
+设计模式 ： 单例模式的几种实现方法
+-------  JAVA WEB 
+SSM框架
+AOP,IOC概念
+BEAN容器管理
+---------- 框架： 高并发、高可用、高性能
+springboot
+springcloud
+dubbo 等rpc 调用框架
+------------- 中间件
+redis
+消息队列：rocketmq 
+---------- 数据库
+mysql
+索引
+分库分表
+独写分离
+---------- 提升
+JVM调优
+网络编程
+TCP/IP 编程
+
+一个优秀的程序员什么都懂一点
+C和pyth必会！
+Java深入研究即可！
+
+多刷leetcode，leetcode，leetcode；重要的事情说三遍！
+建议多学习和知识储备Linux、vim、git、ssh、shell等高校编程工具！
+markdown --- 一种轻量级标记语言！
+Github一个基于Git的源代码托管服务！
+用Stack Overflow，搜索如何解决Bug，用Medium看国外优质文章网站！
+拿捏好以上的东西，就能立足于现在的社会！
